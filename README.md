@@ -5,9 +5,12 @@
 > This repository contains python implementation of K-Means clustering and Density Based clustering algorithms
 
 Example data is provided in the folder 'example_data'. The data looks something like this:
+
 <img src="https://raw.githubusercontent.com/nkapilchandra/Clustering-algorithms/master/images/dataset.png" width="350" height="300"  />
 
+
 The actual labels of the data set can be seen in this image below:
+
 <img src="https://raw.githubusercontent.com/nkapilchandra/Clustering-algorithms/master/images/actual.png" width="350" height="300"  />
 
 
