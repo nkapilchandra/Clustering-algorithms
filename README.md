@@ -4,6 +4,7 @@
 > # Clustering algorithms
 > This repository contains python implementation of K-Means clustering and Density Based clustering algorithms
 
+
 Example data is provided in the folder 'example_data'. The data looks something like this:
 
 <img src="https://raw.githubusercontent.com/nkapilchandra/Clustering-algorithms/master/images/dataset.png" width="350" height="300"  />
@@ -37,14 +38,20 @@ Density based clustering algorithm was used on the same dataset with different c
 ### Comparison of performance of both algorithms
 #### **K Means**
 True positive rate for Centroid 1 = 1.0643
+
 True positive rate for Centroid 2 = 1.0693
 
+
 Number of points in cluster 1 = 215
+
 Number of points in cluster 2 = 216
 
 #### **DBSCAN**
 True positive rate for Centroid 1 = 1.0396
+
 True positive rate for Centroid 2 = 1.0247
 
+
 Number of points in cluster 1 = 210
+
 Number of points in cluster 2 = 207
