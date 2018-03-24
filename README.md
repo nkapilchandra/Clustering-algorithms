@@ -19,13 +19,17 @@ Centroid is randomly initialized in the beginning and then the clustering algori
 Density based clustering algorithm was used on the same dataset with different cut off distances and different cut off number of neighbors. The results were as follows:
 
 **For eps = 1.1 and min. points = 4**
+
 <img src="https://raw.githubusercontent.com/nkapilchandra/Clustering-algorithms/master/images/DBSCAN_1.png" width="350" height="300"  />
 
 **For eps = 1.1 and min. points = 5**
+
 <img src="https://raw.githubusercontent.com/nkapilchandra/Clustering-algorithms/master/images/DBSCAN_2.png" width="350" height="300"  />
 
 **For eps = 1.6 and min. points = 4**
+
 <img src="https://raw.githubusercontent.com/nkapilchandra/Clustering-algorithms/master/images/DBSCAN_3.png" width="350" height="300"  />
+
 
 ### Comparison of performance of both algorithms
 #### **K Means**
